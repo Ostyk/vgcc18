@@ -2,5 +2,12 @@
 \contentsline {section}{\numberline {1}Introduction}{2}
 \contentsline {section}{\numberline {2}Experimental Data}{2}
 \contentsline {section}{\numberline {3}Tools and methodology}{2}
-\contentsline {section}{\numberline {4}Results}{2}
-\contentsline {section}{\numberline {5}Conclusions}{2}
+\contentsline {subsection}{\numberline {3.1}Tools}{2}
+\contentsline {subsection}{\numberline {3.2}methodology}{2}
+\contentsline {subsubsection}{\numberline {3.2.1}preprocessing}{2}
+\contentsline {subsection}{\numberline {3.3}VGCC18}{2}
+\contentsline {subsection}{\numberline {3.4}VGG16+SVM}{3}
+\contentsline {section}{\numberline {4}Results}{3}
+\contentsline {subsection}{\numberline {4.1}VGCC18}{3}
+\contentsline {subsection}{\numberline {4.2}VGG16+SVM}{4}
+\contentsline {section}{\numberline {5}Conclusions}{4}
